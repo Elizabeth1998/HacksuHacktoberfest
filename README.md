@@ -33,3 +33,4 @@ Once you're done making 5 pull requests, you can delete your branch by running `
 Then to clean up the original repo, run `git push upstream :[your branch name]` and on your repo `git push origin :[your branch name]`
 
 You're all set!! Wait for an email from GitHub about your shirt and enjoy another free shirt to add to your collection!
+Also sign up for KHE! 
