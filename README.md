@@ -34,4 +34,4 @@ Then to clean up the original repo, run `git push upstream :[your branch name]` 
 
 You're all set!! Wait for an email from GitHub about your shirt and enjoy another free shirt to add to your collection!
 Also sign up for KHE! 
-It is next weekend!
+It is next weekend, Friday, Saturday, and Sunday!
